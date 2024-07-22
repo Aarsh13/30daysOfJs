@@ -66,6 +66,11 @@ console.log(`Factorial of ${number} is ${fact}`);
 // Activity 4: Nested Loops
 
 // Task 7: Write a program to print a pattern using nested for loops:
+// *
+// * *
+// * * *
+// * * * *
+// * * * * *
 
 for(let a=1; a<=5; a++)
 {
